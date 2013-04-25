@@ -1,4 +1,4 @@
-kcrc-reload is a script to auto reload the current page when you save the html.
+html-crc-reload is a script to auto reload the current page when you save the html.
 
 Requires jquery.
 
